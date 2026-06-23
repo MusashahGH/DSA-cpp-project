@@ -18,7 +18,7 @@ A menu-driven singly linked list program built in C++ as part of my DSA coursewo
 ## 🛠️ How to Run
 
 ```bash
-g++ linked_list_menu_cpp.cpp -o output
+g++ "PROJECT [LINKED LIST CONECT MANAGEMENT].cpp" -o output
 ./output
 ```
 
@@ -28,6 +28,5 @@ g++ linked_list_menu_cpp.cpp -o output
 
 - 🔗 Singly Linked List
 - 🧠 Dynamic Memory Management (`new` / `delete`)
-- 🏗️ OOP in C++ (Classes, Encapsulation)
+- 🏗️ OOP in C++ (Classes, Encapsulation)    
 
-**Musa** — BS Computer Science, University of the Punjab
