@@ -64,3 +64,14 @@ Enter value: 100
 Value inserted successfully!
 
 ---
+
+---
+
+## 👨‍💻 Author
+
+**MusashahGH**  
+- 🌐 [GitHub Profile](https://github.com/MusashahGH)
+
+**📌 This project was developed solo as part of my DSA coursework (2025).**
+
+---
