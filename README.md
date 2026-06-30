@@ -15,18 +15,52 @@ A menu-driven singly linked list program built in C++ as part of my DSA coursewo
 
 ---
 
-## 🛠️ How to Run
+## 🖥️ How to Run
 
+### Prerequisites
+- C++ Compiler (g++ recommended)
+- Terminal / Command Prompt
+
+### Steps
 ```bash
-g++ "PROJECT [LINKED LIST CONECT MANAGEMENT].cpp" -o output
-./output
+# 1. Compile the program
+g++ "PROJECT [LINKED LIST CONECT MANAGEMENT].cpp" -o linkedlist
+
+# 2. Run the executable
+./linkedlist
+
+# For Windows
+linkedlist.exe
 ```
 
 ---
 
-## 📚 Concepts Used
+## 🛠️ Technical Skills & Concepts
 
-- 🔗 Singly Linked List
-- 🧠 Dynamic Memory Management (`new` / `delete`)
-- 🏗️ OOP in C++ (Classes, Encapsulation)    
+| Concept | Description |
+|---------|-------------|
+| 📊 **Data Structures** | Singly Linked List with Insert, Delete, Search, Display |
+| 🔍 **Algorithms** | Traversal, Linear Search, Deletion algorithms |
+| 🏗️ **OOP** | Classes, Encapsulation, Constructors, `public`/`private` access |
+| 🧠 **Memory Management** | Dynamic allocation using `new` / `delete` |
+| 🧩 **Problem-Solving** | Edge cases: empty list, value not found, head deletion |
+| 💻 **CLI Development** | User-friendly menu-driven interface with `do-while` loop |
+| ⚙️ **Algorithm Properties** | Definiteness ✅, Finiteness ✅, Effectiveness ✅ |
+| 🐙 **Version Control** | Git & GitHub for project tracking |
+| 🎯 **C++ STL Awareness** | Used `string` datatype for flexibility |
 
+---
+
+## 📸 Sample Output
+
+--- Linked List Menu ---
+1. Insert
+2. Display
+3. Search
+4. Delete
+5. Exit
+Enter choice: 1
+Enter value: 100
+Value inserted successfully!
+
+---
